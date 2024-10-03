@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Gee - I'm a front end developer. I'm interested<br>in development, moderation, and building thriving online<br>communities. Here I share my journey and learnings in the<br>vast tech world. Working on random projects in my free time.
+<br>My name is Gee - I'm a front end developer. I am dedicated <br> to creativity and uniqueness of expression<br>in development of thriving online<br>communities. Here I share my journey and learnings in the<br>vast tech world. Working on random projects in my free time.
 
 
 ## 🌐 Socials:
