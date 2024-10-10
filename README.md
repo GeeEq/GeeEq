@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>My name is Gee - I'm a front end developer. I am dedicated <br> to creativity and uniqueness of expression in development<br>of thriving online communities. Here I share my journey and <br>learnings in the vast tech world.<br> Working on random projects in my free time.
+<br>My name is Gee - I'm a front end developer. I am dedicated <br> to uniqueness of creative expression.<br> Here I share my journey and <br>learnings in the digital world.<br> Working on random projects in my free time.
 
 
 ## 🌐 Socials:
