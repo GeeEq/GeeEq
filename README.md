@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>My name is Gee - I'm a front end developer.<br>I am dedicated to uniqueness of creative expression.<br> Here I share my journey and <br>learnings in the digital world.<br> Working on random projects in my free time.
+🌐 I am curious and creative Junior Front-End Developer with a keen eye for detail and a passion for crafting seamless user interfaces. I specialize in HTML, CSS, JavaScript, and modern frameworks like React to bring visually appealing, responsive, and intuitive websites to life. My goal is to bridge the gap between design and functionality, ensuring that users have an unforgettable digital experience.
+
+🚀 Constantly learning and improving my skills with the latest web development trends.
+Solving real-world problems through code and design. Writing clean, maintainable, and performance-optimized code. Dedicated to uniqueness of creative expression.
+
+🌞 Currently, I’m eager to bring my creativity, technical skills, and collaborative mindset to a dynamic development team.
 
 
 ## 🌐 Socials:
